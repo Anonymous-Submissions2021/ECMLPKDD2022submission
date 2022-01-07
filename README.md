@@ -1,7 +1,7 @@
-# ICDM2021submission
-Code for the IEEE ICDM 2021 submission: Multi-Armed Bandit Strategies forMulti-Domain Active Learning.
+# IJCAI2022submission
+Code for the IJCAI-ECAI 2022 submission: Multi-Armed Bandit Strategies forMulti-Domain Active Learning.
 
-Copyright 2021 by **367db52881ad1af70fd9a4a500c19f13**
+Copyright 2022 by **367db52881ad1af70fd9a4a500c19f13**
 
 The HASH was generated using the `hashlib` library from `Python`:
 ``` Python
